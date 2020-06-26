@@ -1,0 +1,70 @@
+body{ margin: 0;
+	background-color: #ECFBFC;
+	text-align:center;
+font-family: 'Montserrat', sans-serif;
+}
+
+h1{ margin: 0 auto 0 auto;
+	color: #fff;
+	font-family: 'Sacramento', cursive;
+	font-size: 5rem;
+}
+h2{
+	color: #fff;
+	font-size: 2.5rem;
+}
+h3{
+	color: #43d8c9;
+	font-size: 1.5rem;
+}
+.contact-font{
+	color: #43d8c9;
+}
+p{
+	font-size: 1rem;
+}
+
+.top-container{
+	position: relative;
+	background-image: url(../images/code.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 100px;
+	background-color: #ECFBFC;
+}
+.dp{
+ border-radius: 100%;
+}
+
+#footer{
+	background-color: black;
+}
+.copy-right{
+	color: #fff;
+}
+.footer-link{
+	color:#43d8c9;
+}
+
+
+.btn {
+	box-shadow:inset 0px -3px 7px 0px #29bbff;
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color:#2dabf9;
+	border-radius:3px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+
